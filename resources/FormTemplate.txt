@@ -1,0 +1,12 @@
+Dear <NAME>,
+
+	It has come to our attention that you would like to prove your Java Skills.
+May we recommend that you consider certification from Oracle?  Oracle has globally
+recognized Certification exams that will test your Java knowledge and skills.
+
+	Start with the Oracle Certified Java Associate exam, and then continue to 
+the Oracle Certified Java Programmer Professional for a complete certification profile.
+
+	Good Luck!
+
+Oracle University
